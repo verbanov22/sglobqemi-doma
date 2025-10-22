@@ -18,7 +18,9 @@ nav a{
 }
 
 nav a:hover{
-	text-decoration: underline;
+	text-decoration: none;
+	background: white;
+	color: #004b80;
 }
 
 img{
